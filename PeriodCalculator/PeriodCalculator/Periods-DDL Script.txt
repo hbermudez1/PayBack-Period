@@ -1,0 +1,11 @@
+CREATE TABLE [dbo].[Periods] (
+    [period_id]  INT           IDENTITY (1, 1) NOT NULL,
+    [periodname] NVARCHAR (50) NOT NULL,
+    [investment] FLOAT (53)    NOT NULL,
+    [ocashflow]  FLOAT (53)    NOT NULL,
+    [ccashflow]  FLOAT (53)    NOT NULL,
+    [period]     FLOAT (53)    NOT NULL,
+    [user_id]    INT           NOT NULL,
+    FOREIGN KEY ([user_id]) REFERENCES [dbo].[Users] ([id])
+);
+
