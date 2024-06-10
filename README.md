@@ -13,14 +13,14 @@ In the past few months we have had to overcome many obstacles along the way to c
 - Functionality: ensuring that the user can use the application correctly.
 
 # Agile Roles
-Scrum Master: Thong Nguyen
-Coach of the team. Helped managed the project, led daily stand up meetings, organized sprint backlogs.
-Product Owner: Harold Bermudez
-Responsible for adding value to product and the work of development team
-Team Player: Micah Miller
-Helped with spring backlogs, ensured that all required documents are good to go
-Team Player: Pengyu Yin
-Helped with spring backlogs, ensured that all required documents are good to go
+- Scrum Master: Thong Nguyen
+  - Coach of the team. Helped managed the project, led daily stand up meetings, organized sprint backlogs.
+- Product Owner: Harold Bermudez
+  - Responsible for adding value to product and the work of development team
+- Team Player: Micah Miller
+  - Helped with spring backlogs, ensured that all required documents are good to go
+- Team Player: Pengyu Yin
+  - Helped with spring backlogs, ensured that all required documents are good to go
 
 # Product Backlog Statistics
 <-- Enter Image here -- >
