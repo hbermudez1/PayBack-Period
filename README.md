@@ -25,3 +25,27 @@ Helped with spring backlogs, ensured that all required documents are good to go
 # Product Backlog Statistics
 <-- Enter Image here -- >
 
+# Quantitative Metrics
+1. Sprint Burndown Chart
+2. Velocity Bar Graph
+3. Work In Progress (WIP) chart
+4. Work Item Age graph
+5. Control Chart
+
+# Sprint Burndown Chart
+<!-- Enter image Here -->
+
+# Velocity
+<!-- Enter image Here -->
+
+# Work in Progress (WIP) Chart
+<!-- Enter image Here -->
+
+# Work Item Age Graph
+<!-- Enter image Here -->
+
+# Control Chart 
+<!-- Enter image Here -->
+
+
+
